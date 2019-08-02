@@ -5,7 +5,17 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearnOpenGL", "LearnOpenGL\LearnOpenGL.vcxproj", "{479C663C-43BE-4B84-9789-8FAD921D104C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstTrangle", "FirstTrangle\FirstTrangle.vcxproj", "{416B7EC2-BCDF-4ED0-A03B-B32CAF002CC9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstTriangle", "FirstTrangle\FirstTrangle.vcxproj", "{416B7EC2-BCDF-4ED0-A03B-B32CAF002CC9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstEBO", "FirstEBO\FirstEBO.vcxproj", "{DB21EC7E-A87D-4824-972C-579283B86327}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloTriangleExercise1", "HelloTriangleExercise1\HelloTriangleExercise1.vcxproj", "{7B3512C4-D9F2-4B29-B099-147B73AA9CC9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloTriangleExercise2", "HelloTriangleExercise2\HelloTriangleExercise2.vcxproj", "{C16A7468-4352-49CE-9093-A589982F751D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_03ShadersUniform", "01_03ShadersUniform\01_03ShadersUniform.vcxproj", "{88F8A5BB-B9A8-4A25-9BEB-BA8BB84BA1A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_03ShadersUniform2", "01_03ShadersUniform2\01_03ShadersUniform2.vcxproj", "{00EA4452-DA9D-4528-A960-A4D113EB1734}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +31,26 @@ Global
 		{416B7EC2-BCDF-4ED0-A03B-B32CAF002CC9}.Debug|Win32.Build.0 = Debug|Win32
 		{416B7EC2-BCDF-4ED0-A03B-B32CAF002CC9}.Release|Win32.ActiveCfg = Release|Win32
 		{416B7EC2-BCDF-4ED0-A03B-B32CAF002CC9}.Release|Win32.Build.0 = Release|Win32
+		{DB21EC7E-A87D-4824-972C-579283B86327}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB21EC7E-A87D-4824-972C-579283B86327}.Debug|Win32.Build.0 = Debug|Win32
+		{DB21EC7E-A87D-4824-972C-579283B86327}.Release|Win32.ActiveCfg = Release|Win32
+		{DB21EC7E-A87D-4824-972C-579283B86327}.Release|Win32.Build.0 = Release|Win32
+		{7B3512C4-D9F2-4B29-B099-147B73AA9CC9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7B3512C4-D9F2-4B29-B099-147B73AA9CC9}.Debug|Win32.Build.0 = Debug|Win32
+		{7B3512C4-D9F2-4B29-B099-147B73AA9CC9}.Release|Win32.ActiveCfg = Release|Win32
+		{7B3512C4-D9F2-4B29-B099-147B73AA9CC9}.Release|Win32.Build.0 = Release|Win32
+		{C16A7468-4352-49CE-9093-A589982F751D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C16A7468-4352-49CE-9093-A589982F751D}.Debug|Win32.Build.0 = Debug|Win32
+		{C16A7468-4352-49CE-9093-A589982F751D}.Release|Win32.ActiveCfg = Release|Win32
+		{C16A7468-4352-49CE-9093-A589982F751D}.Release|Win32.Build.0 = Release|Win32
+		{88F8A5BB-B9A8-4A25-9BEB-BA8BB84BA1A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{88F8A5BB-B9A8-4A25-9BEB-BA8BB84BA1A9}.Debug|Win32.Build.0 = Debug|Win32
+		{88F8A5BB-B9A8-4A25-9BEB-BA8BB84BA1A9}.Release|Win32.ActiveCfg = Release|Win32
+		{88F8A5BB-B9A8-4A25-9BEB-BA8BB84BA1A9}.Release|Win32.Build.0 = Release|Win32
+		{00EA4452-DA9D-4528-A960-A4D113EB1734}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00EA4452-DA9D-4528-A960-A4D113EB1734}.Debug|Win32.Build.0 = Debug|Win32
+		{00EA4452-DA9D-4528-A960-A4D113EB1734}.Release|Win32.ActiveCfg = Release|Win32
+		{00EA4452-DA9D-4528-A960-A4D113EB1734}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
